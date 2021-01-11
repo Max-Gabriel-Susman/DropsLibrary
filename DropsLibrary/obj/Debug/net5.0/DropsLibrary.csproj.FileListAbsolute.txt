@@ -1,0 +1,12 @@
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/bin/Debug/net5.0/DropsLibrary.deps.json
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/bin/Debug/net5.0/DropsLibrary.dll
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/bin/Debug/net5.0/ref/DropsLibrary.dll
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/bin/Debug/net5.0/DropsLibrary.pdb
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/DropsLibrary.csprojAssemblyReference.cache
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/DropsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/DropsLibrary.AssemblyInfoInputs.cache
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/DropsLibrary.AssemblyInfo.cs
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/DropsLibrary.csproj.CoreCompileInputs.cache
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/DropsLibrary.dll
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/ref/DropsLibrary.dll
+/Users/prometheus/Desktop/DotNet/DropsLibrary/DropsLibrary/obj/Debug/net5.0/DropsLibrary.pdb
